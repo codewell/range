@@ -1,4 +1,4 @@
-# range
+# @codewell/range
 Create a range of numbers
 
 ## Installation
@@ -12,4 +12,3 @@ import range from '@codewell/range';
 
 range(3); // => [0, 1, 2]
 ```
-
