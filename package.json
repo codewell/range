@@ -1,0 +1,23 @@
+{
+  "name": "range",
+  "version": "1.0.0",
+  "description": "Create a range of numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/range.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewell/range/issues"
+  },
+  "homepage": "https://github.com/codewell/range#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
