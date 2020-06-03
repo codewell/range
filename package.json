@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/codewell/range#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.0.1"
   }
 }
